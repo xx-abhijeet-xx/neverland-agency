@@ -56,7 +56,7 @@ Scroll position is normalized against the total scrollable height and multiplied
 No build step. Open directly in a browser or serve with any static server.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/canvas-scroll-sequence.git
+git clone https://github.com/abhijeet-builds/canvas-scroll-sequence.git
 cd canvas-scroll-sequence
 
 npx serve .
